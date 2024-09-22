@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/EncDecrypt/src/EncDecrypt.cpp
+/EncDecrypt/EncDecrypt.vcxproj
+/EncDecrypt/EncDecrypt.vcxproj.filters
+/.gitattributes
+/.gitignore
