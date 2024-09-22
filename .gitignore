@@ -366,3 +366,5 @@ FodyWeavers.xsd
 /EncDecrypt/EncDecrypt.vcxproj.filters
 /.gitattributes
 /.gitignore
+/EncDecrypt.sln
+/.gitignore
